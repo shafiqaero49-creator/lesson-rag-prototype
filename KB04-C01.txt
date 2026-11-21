@@ -1,0 +1,5 @@
+Chunk ID: KB04-C01
+Title: BSCS 5E instructional model
+Source: Bybee et al. (2006), BSCS
+
+The BSCS 5E instructional model organises learning into five phases: engage, explore, explain, elaborate, and evaluate. Engage captures interest and surfaces prior ideas. Explore gives learners a shared hands-on experience before formal terms are introduced. Explain introduces scientific vocabulary and concepts. Elaborate applies understanding to a new situation. Evaluate checks understanding and lets students reflect on their learning.

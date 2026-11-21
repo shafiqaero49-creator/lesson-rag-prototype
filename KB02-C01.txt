@@ -1,0 +1,5 @@
+Chunk ID: KB02-C01
+Title: Understanding plate motions
+Source: USGS, This Dynamic Earth
+
+A transform boundary is a zone where two tectonic plates slide horizontally past one another. The San Andreas Fault zone in California is an example. Along the San Andreas system, the Pacific Plate moves northwest relative to the North American Plate. The fault zone is about 1,300 km long and movement averages about 5 cm per year. Transform boundaries commonly have shallow earthquakes.

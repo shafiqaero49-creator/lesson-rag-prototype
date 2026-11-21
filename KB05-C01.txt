@@ -1,0 +1,5 @@
+Chunk ID: KB05-C01
+Title: Universal Design for Learning guidance
+Source: CAST UDL Guidelines 3.0
+
+Universal Design for Learning (UDL) recommends multiple means of engagement, representation, and action and expression. To differentiate, present key vocabulary both visually and verbally, provide a glossary and labelled diagrams, and let learners show understanding orally, in writing, or by drawing. Offer choices that sustain interest and reduce barriers for learners who struggle with technical language.
